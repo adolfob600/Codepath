@@ -33,6 +33,7 @@ Here's a walkthrough of Gratuity:
 
 ![](https://i.imgur.com/RVoZ5SX.gif)
 
+
 ## Notes
 
     Some of the challenges I encountered included familiarizing myself xcode in general. I searched up several things such as how to round up the slider value from the custom tip slider, how to set an icon for the app, and how to change the type of keyboard used by the Bill Amount Text Field.
